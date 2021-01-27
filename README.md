@@ -80,7 +80,7 @@ if __name__ == '__main__':		//(main function)
 ```
 
 # Result
-![](/image/2_pub_and_2_sub.png)
+![](image/github-2_pub_and_2_sub.png)
 
 
 
