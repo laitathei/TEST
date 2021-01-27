@@ -8,33 +8,33 @@
 ## Environment setup
 
 #### Setup the python environment
-``` python
+```python
 #!/usr/bin/env python 	
 ```
 
 #### Import the ROS python library
-```
+```python
 import rospy 
 ```
 
 #### Enable to use string and duration
-```
+```python
 from std_msgs.msg import String, Duration
 ```
 
 #### Import the message_filters library
-```
+```python
 import message_filters
 ```
 
 #### Enable to use following functions
-```
+```python
 from message_filters import TimeSynchronizer, Subscriber, Cache
 ```
 
 ## Code explanation (see the remark)
 
-```
+```python
 def callback(data): 	//(def in python is similiar to C++ function) (callback(data) function names and define variable type)
 	rospy.loginfo(' I am listener 1 and I heard %s' % data.data) 	//(print the message and show the message which is from the topic)
 
