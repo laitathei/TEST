@@ -79,7 +79,7 @@ if __name__ == '__main__':		//(main function)
 
 ```
 
-#Result
+# Result
 ![Result](/image/2_pub_and_2_su.jpeg "Result")
 
 
