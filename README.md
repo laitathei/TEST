@@ -8,7 +8,7 @@
 ## Environment setup
 
 #### Setup the python environment
-```
+``` python
 #!/usr/bin/env python 	
 ```
 
