@@ -80,7 +80,7 @@ if __name__ == '__main__':		//(main function)
 ```
 
 #Result
-![Result](/image/2_publisher_and_2_subscriber_result.jpeg "Result")
+![Result](/image/2_pub_and_2_su.jpeg "Result")
 
 
 
