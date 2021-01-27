@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # TEST
-=======
+
 ## Task for the publisher and subscriber
 
 #### The above task just for 2 publisher and 2 subscriber in each files to communicate to others. If you want extend it to N publisher and N subscriber, just take this as reference.
@@ -80,7 +80,7 @@ if __name__ == '__main__':		//(main function)
 ```
 
 # Result
-![](image/github-2_pub_and_2_sub.png)
+![](image/2_pub_and_2_sub.png)
 
 
 
